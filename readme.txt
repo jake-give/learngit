@@ -5,4 +5,5 @@ git tracks changes.
 My stupid boss still prefers SVN.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
-add mrege
+a add mrege
+creating a new branch is quick.
